@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
       ),
       body: Column(
         children: <Widget>[
-          Text('Hello World'),
+          const Text('Hello World'),
           Image.asset('assets/animeGirl.webp'),
         ],
       ),
